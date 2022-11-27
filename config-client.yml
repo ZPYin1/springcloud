@@ -1,5 +1,5 @@
 spring:
-  progiler:
+  profiles:
     active: dev
 
 
